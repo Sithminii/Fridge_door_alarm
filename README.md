@@ -1,4 +1,4 @@
-# Fridge Door Alarm - ATmega328P Microcontroller Code
+# Fridge Door Alarm _ Your Smart Door Tracker
 
 ## Overview
 The Fridge Door Alarm is a DIY project designed to prevent leaving the refrigerator door open for an extended period. This alarms you when your fridge door is left open for a long time or is not closed properly. This code is specifically written for the ATmega328P microcontroller, which is the brain behind the device's functionality.
